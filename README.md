@@ -1,7 +1,7 @@
 # Obsidian-Homepage
 My customized Obsidian homepage. Feel free to download the template vault and play around.
 > [!Note]
-> You may find my blog [How to DIY Obsidian homeopage](https://ghost04718.github.io/skills/obsidian/2024/08/14/Obsidian-homepage.html) helpful.
+> You may find my blog [How to DIY Obsidian homeopage](https://chenziqiadam.github.io/skills/portfolio/2024/08/14/Obsidian-homepage.html) helpful.
 
 ## Screenshots
 ![screenshot](screenshots/dark.png)
